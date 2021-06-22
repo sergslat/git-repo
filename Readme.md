@@ -2,7 +2,7 @@
 
 ##Task List
 - [X] Create Repo
-- [] Create sergio1 branch
-- [] Push new branch
-- [] Merge changes
-- [] Delete branch 
+- [ ] Create sergio1 branch
+- [ ] Push new branch
+- [ ] Merge changes
+- [ ] Delete branch 
